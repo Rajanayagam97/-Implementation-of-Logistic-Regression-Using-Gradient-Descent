@@ -165,7 +165,10 @@ print("Prediction for new student 2 (0 = Not Placed, 1 = Placed):", y_prednew2[0
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+<img width="984" height="712" alt="image" src="https://github.com/user-attachments/assets/4c79ade0-d3e5-4cae-9895-1f6089634b8b" />
+<img width="977" height="560" alt="image" src="https://github.com/user-attachments/assets/eeb90edd-6152-4140-bd23-d9975872ea14" />
+<img width="878" height="678" alt="image" src="https://github.com/user-attachments/assets/d31d07c2-a172-49ba-9943-bb76bde83557" />
+<img width="1059" height="195" alt="image" src="https://github.com/user-attachments/assets/87a44ab4-be24-4f50-a63f-9718e6918c23" />
 
 
 ## Result:
